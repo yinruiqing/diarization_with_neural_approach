@@ -1,5 +1,5 @@
 # Speaker diarization with neural approach
-Code for [**Neural speech turn segmentation and affinity propagation for speaker diarization**](https://github.com/yinruiqing/change_detection/blob/master/doc/change-detection.pdf)
+Code for [**Neural speech turn segmentation and affinity propagation for speaker diarization**](https://github.com/yinruiqing/diarization_with_neural_approach/blob/master/diarization_with_neural_approach/doc/1750_Paper.pdf)
 
 **Attention:** The pipeline has been merged in [`pyannote.audio`](https://github.com/pyannote/pyannote-audio). The codes here are just for reproducing the results in the paper.
 
