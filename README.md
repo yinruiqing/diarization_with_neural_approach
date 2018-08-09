@@ -36,7 +36,7 @@ Please follow the [`documentation `](https://github.com/pyannote/pyannote-audio/
 ### Embedding training and extraction
 Please follow the [`documentation `](https://github.com/pyannote/pyannote-audio/tree/master/tutorials/speaker-embedding) in [`pyannote.audio`](https://github.com/pyannote/pyannote-audio) to extract embeddings for optimization step.
 ### Optimization
-We use [`Hyperopt `]http://hyperopt.github.io/hyperopt/)  to do the global optimization. The objective function is in 
+We use [`Hyperopt `](http://hyperopt.github.io/hyperopt/)  to do the global optimization. The objective function is in 
 Then you can use the following code to evaluate and generate the mdtm file.
 ```python
 args={'cls__damping': 0.8543270898940996,
